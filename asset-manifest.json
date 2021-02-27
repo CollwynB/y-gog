@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/y-gog/static/css/main.d4a319a0.chunk.css",
-    "main.js": "/y-gog/static/js/main.17b60bc7.chunk.js",
-    "main.js.map": "/y-gog/static/js/main.17b60bc7.chunk.js.map",
+    "main.js": "/y-gog/static/js/main.1b263e89.chunk.js",
+    "main.js.map": "/y-gog/static/js/main.1b263e89.chunk.js.map",
     "runtime-main.js": "/y-gog/static/js/runtime-main.0a970984.js",
     "runtime-main.js.map": "/y-gog/static/js/runtime-main.0a970984.js.map",
-    "static/js/2.17f8c8ea.chunk.js": "/y-gog/static/js/2.17f8c8ea.chunk.js",
-    "static/js/2.17f8c8ea.chunk.js.map": "/y-gog/static/js/2.17f8c8ea.chunk.js.map",
+    "static/js/2.35aec794.chunk.js": "/y-gog/static/js/2.35aec794.chunk.js",
+    "static/js/2.35aec794.chunk.js.map": "/y-gog/static/js/2.35aec794.chunk.js.map",
     "static/js/3.5406a10c.chunk.js": "/y-gog/static/js/3.5406a10c.chunk.js",
     "static/js/3.5406a10c.chunk.js.map": "/y-gog/static/js/3.5406a10c.chunk.js.map",
     "index.html": "/y-gog/index.html",
     "static/css/main.d4a319a0.chunk.css.map": "/y-gog/static/css/main.d4a319a0.chunk.css.map",
-    "static/js/2.17f8c8ea.chunk.js.LICENSE.txt": "/y-gog/static/js/2.17f8c8ea.chunk.js.LICENSE.txt",
+    "static/js/2.35aec794.chunk.js.LICENSE.txt": "/y-gog/static/js/2.35aec794.chunk.js.LICENSE.txt",
     "static/media/App.css": "/y-gog/static/media/temp-banner.7c44b151.jpg",
     "static/media/yGOG.71e5507b.png": "/y-gog/static/media/yGOG.71e5507b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0a970984.js",
-    "static/js/2.17f8c8ea.chunk.js",
+    "static/js/2.35aec794.chunk.js",
     "static/css/main.d4a319a0.chunk.css",
-    "static/js/main.17b60bc7.chunk.js"
+    "static/js/main.1b263e89.chunk.js"
   ]
 }
