@@ -4,6 +4,16 @@ import logo from "./assets/yGOG.png"
 function App() {
   const [english, setEnglish] = useState(true);
 
+  const paragraphs = {
+    english: ["Y Gog is looking for works exploring North Wales through the lenses of the magical, mythical and surreal. To create a multisensory experience, we accept not only written pieces but also visual and auditory works of art.",
+  "Our maximum word count for prose is 3000 and 40 lines for Poetry. For audio and video, we will need a transcript that fits within the word/line count. For more experimental sounds and videos, from wind to rain, let your creativity shine; the limit is 3 minutes.",
+  "As we are writing about North Wales, our anthology will be bilingual, accepting both English and Welsh submissions! We also strongly encourage unpublished writers to give it a try; we’d love to help your voices be heard!",
+"We accept all genres, even creative nonfiction and sci-fi, as long as they fit into the theme, however you want to interpret it. Y Gog will not be accepting fanfiction or obscene content. Anything unnecessarily gory or erotic will be rejected. If you have any questions, feel free to ask us via email or social media."
+    
+],
+    welsh: []
+  }
+
   return (
     <div className="App">
         <div className="overlay"></div>
@@ -21,17 +31,15 @@ function App() {
           <div className="main-body">
             <h2>Submission Guidelines</h2>
             <p>
-              Y Gog is looking for works exploring North Wales through the lenses of the magical, mythical and surreal. To create a multisensory experience, we accept not only written pieces but also visual and auditory works of art.
+              
             </p>
             <p>
-              Our maximum word count for prose is 3000 and 40 lines for Poetry. For audio and video, we will need a transcript that fits within the word/line count. For more experimental sounds and videos, from wind to rain, let your creativity shine; the limit is 3 minutes.
+              
             </p>
             <p>
-              As we are writing about North Wales, our anthology will be bilingual, accepting both English and Welsh submissions! We also strongly encourage unpublished writers to give it a try; we’d love to help your voices be heard!
             </p>
             <p>
-              We accept all genres, even creative nonfiction and sci-fi, as long as they fit into the theme, however you want to interpret it. Y Gog will not be accepting fanfiction or obscene content. Anything unnecessarily gory or erotic will be rejected.
-              If you have any questions, feel free to ask us via email or social media.
+              
             </p>
             <h2>
               Submission process

@@ -2,12 +2,14 @@
   "name": "ygog",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://collwynb.github.io/y-gog",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.1",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "gh-pages": "^3.1.0",
     "googleapis": "^39.2.0",
     "gs": "0.0.2",
     "react": "^17.0.1",
@@ -18,6 +20,8 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
