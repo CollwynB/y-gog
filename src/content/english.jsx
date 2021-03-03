@@ -28,6 +28,10 @@ function English() {
               You shall receive a reply within a maximum of 60 days informing you if your piece will be included in the anthology or not.
             </p>
             <p>The submissions are open until the 31/03/21.</p>
+           <h2>Contributions</h2> 
+            <p>
+                As a group of Master students, we intend to make this anthology free for all to view, and we will therefore not be able to pay any contributions. But we are willing to add links to your other pieces of writings or books alongside your name! 
+            </p>
         </>
     )
 }
