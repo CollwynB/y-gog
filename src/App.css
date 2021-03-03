@@ -73,9 +73,10 @@ a {
   font-weight: 700;
   text-decoration:underline;
   position: fixed;
-  top: 8px;
-  left: 8px;
+  right: 0;
   user-select: none;
+  background-color: rgba(0, 0, 0, 0.486);
+  padding: 8px;
 }
 
 h1 {
