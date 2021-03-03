@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/y-gog/static/css/main.d4a319a0.chunk.css",
-    "main.js": "/y-gog/static/js/main.1b263e89.chunk.js",
-    "main.js.map": "/y-gog/static/js/main.1b263e89.chunk.js.map",
+    "main.js": "/y-gog/static/js/main.174b33f8.chunk.js",
+    "main.js.map": "/y-gog/static/js/main.174b33f8.chunk.js.map",
     "runtime-main.js": "/y-gog/static/js/runtime-main.0a970984.js",
     "runtime-main.js.map": "/y-gog/static/js/runtime-main.0a970984.js.map",
     "static/js/2.35aec794.chunk.js": "/y-gog/static/js/2.35aec794.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.0a970984.js",
     "static/js/2.35aec794.chunk.js",
     "static/css/main.d4a319a0.chunk.css",
-    "static/js/main.1b263e89.chunk.js"
+    "static/js/main.174b33f8.chunk.js"
   ]
 }
