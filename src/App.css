@@ -2,6 +2,7 @@ body {
   position: relative;
   color: white;
   font-family: 'Oi', cursive;
+  background-color: rgb(105, 105, 105);
 }
 p {
   margin: 0;
