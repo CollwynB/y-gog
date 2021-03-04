@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/y-gog/static/css/main.e39d5211.chunk.css",
-    "main.js": "/y-gog/static/js/main.174b33f8.chunk.js",
-    "main.js.map": "/y-gog/static/js/main.174b33f8.chunk.js.map",
-    "runtime-main.js": "/y-gog/static/js/runtime-main.0a970984.js",
-    "runtime-main.js.map": "/y-gog/static/js/runtime-main.0a970984.js.map",
-    "static/js/2.35aec794.chunk.js": "/y-gog/static/js/2.35aec794.chunk.js",
-    "static/js/2.35aec794.chunk.js.map": "/y-gog/static/js/2.35aec794.chunk.js.map",
-    "static/js/3.5406a10c.chunk.js": "/y-gog/static/js/3.5406a10c.chunk.js",
-    "static/js/3.5406a10c.chunk.js.map": "/y-gog/static/js/3.5406a10c.chunk.js.map",
-    "index.html": "/y-gog/index.html",
-    "static/css/main.e39d5211.chunk.css.map": "/y-gog/static/css/main.e39d5211.chunk.css.map",
-    "static/js/2.35aec794.chunk.js.LICENSE.txt": "/y-gog/static/js/2.35aec794.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/y-gog/static/media/temp-banner.7c44b151.jpg",
-    "static/media/yGOG.71e5507b.png": "/y-gog/static/media/yGOG.71e5507b.png"
+    "main.css": "/static/css/main.88cb7769.chunk.css",
+    "main.js": "/static/js/main.174b33f8.chunk.js",
+    "main.js.map": "/static/js/main.174b33f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ed644b08.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ed644b08.js.map",
+    "static/js/2.35aec794.chunk.js": "/static/js/2.35aec794.chunk.js",
+    "static/js/2.35aec794.chunk.js.map": "/static/js/2.35aec794.chunk.js.map",
+    "static/js/3.5406a10c.chunk.js": "/static/js/3.5406a10c.chunk.js",
+    "static/js/3.5406a10c.chunk.js.map": "/static/js/3.5406a10c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.88cb7769.chunk.css.map": "/static/css/main.88cb7769.chunk.css.map",
+    "static/js/2.35aec794.chunk.js.LICENSE.txt": "/static/js/2.35aec794.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/temp-banner.7c44b151.jpg",
+    "static/media/yGOG.71e5507b.png": "/static/media/yGOG.71e5507b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a970984.js",
+    "static/js/runtime-main.ed644b08.js",
     "static/js/2.35aec794.chunk.js",
-    "static/css/main.e39d5211.chunk.css",
+    "static/css/main.88cb7769.chunk.css",
     "static/js/main.174b33f8.chunk.js"
   ]
 }
